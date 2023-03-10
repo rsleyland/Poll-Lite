@@ -18,7 +18,7 @@ Real-time poll voting system
 - Redis
 - Django channels
 
-
+### Steps
 ##### To run Backend
 - `cd backend`
 - `create virtual env (python -m venv myenv)`
