@@ -1,4 +1,5 @@
 # Poll-Lite
+Real-time poll voting system
 
 ### Features
 - Create poll
